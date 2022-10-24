@@ -1,0 +1,48 @@
+html{
+    background-color: white;
+}
+
+body{
+    background-color: darkorange;
+    height: 2000px;
+    margin-left: 300px;
+    margin-right: 300px;
+    padding: 50px 100px;
+    font-family: 'Roboto', sans-serif;
+}
+
+h1{
+    color: white;
+    font-size: 60px;
+    padding-left: 60px;
+}
+
+p{
+    font-size: 22px;
+    color: white; 
+    margin-left: 20px;
+    padding-left: 50px;
+    line-height: 40px;
+}
+
+h2{
+   padding-left: 60px; 
+   font-size: 35px;
+}
+
+p.para{
+    color: #000;
+    border-top: thin solid black;
+    border-bottom: thin solid black;
+    font-style: italic;
+    margin-left: 400px;
+    margin-right: 90px;
+    font-size: 18;
+    padding: 5px;
+}
+ul{
+    line-height: 40px;
+    font-weight: bold;
+    padding-left: 60px; 
+
+}
